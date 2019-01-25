@@ -8,3 +8,6 @@ Como objetivo específico se considera:
 - Determinar las variables relevantes que influyen a la hora de realizar un viaje dentro de Chile.
 - Comparar clima en las diferentes estaciones del año.
 - Proponer una lista con consejos prácticos.
+
+
+Para realizar el proyecto, se extrae tabla con el clima de San Pedro de Atacama, posteriomente se realizan gráficos para evidenciar la oscilacion entre las estaciones del año. Junto a ello, se extraen los titulos de los consejos para un viajero, al igual que el número de visitas qe tiene dicho artículo. 
