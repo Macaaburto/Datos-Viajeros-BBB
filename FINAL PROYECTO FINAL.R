@@ -25,10 +25,6 @@ print(tabla1[1])
 # Pasanso tabla a dataframe
 dfTabla <- as.data.frame(tabla1)
 
-#guardar la informacion en cvs
-write.csv(dfTabla, file = "TablaClima.cvs")
-write.csv(dfTitulos, file = "TablaConsejos.cvs")
-write.csv(dfViews, file = "TablaViews.cvs")
 
 ##################################################################
 ###### Creando grafico para el clima #############################
@@ -113,3 +109,10 @@ UnionTablas <- merge(dfTitulos,dfViews)
 
 #guardar la informacion en cvs
 write.csv(UnionTablas, file = "TablaMix.cvs")
+
+##############################################################
+
+#guardar la informacion en cvs
+write.csv(dfTabla, file = "TablaClima.cvs")
+write.csv(dfTitulos, file = "TablaConsejos.cvs")
+write.csv(dfViews, file = "TablaViews.cvs")
