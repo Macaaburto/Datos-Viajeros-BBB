@@ -11,3 +11,6 @@ Como objetivo específico se considera:
 
 
 Para realizar el proyecto, se extrae tabla con el clima de San Pedro de Atacama, posteriomente se realizan gráficos para evidenciar la oscilacion entre las estaciones del año. Junto a ello, se extraen los titulos de los consejos para un viajero, al igual que el número de visitas qe tiene dicho artículo. 
+
+
+PD: Profes, adjunto tabla que hice en excel con la lista de consejos y sus views respectivos, ya que en r al juntar las tablas con df la frecuencia de los views era la misma para todos. Por ende tome ambas tablas por separado y realice una en excel.
